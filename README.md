@@ -16,6 +16,6 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 # Implementation
-![Screenshot_20240829_170040](https://github.com/user-attachments/assets/97fae604-2949-49a2-bc95-9caecab0366b)
+![image](https://github.com/user-attachments/assets/97fae604-2949-49a2-bc95-9caecab0366b)
 
 A simple application where user can create, read, update and delete tasks.
